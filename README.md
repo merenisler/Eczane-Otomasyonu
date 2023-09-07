@@ -1,7 +1,7 @@
 # Eczane-Otomasyonu
 C# İle Geliştirilmekte Olan Eczane Otomasyonu
 
-1.5 milyon barkod verisi bulunan ve sınırsız barkod üretebilecek proceduresi bulunan databaseyi de en yakın zamanda yükleyeceğim
+500.000 ilaç barkodu bulunan ve sınırsız barkod üretebileceğiniz strored procedure'si bulunan sql scripti rar dosyasının içindedir.
 
 ![PerakendeSatış](https://github.com/merenisler/Eczane-Otomasyonu/assets/142229251/08ab683b-3d6b-4404-9048-1b38b80bff62)
 ![HastaSeçimi](https://github.com/merenisler/Eczane-Otomasyonu/assets/142229251/a3e66f32-7678-444b-875e-697f5710a95d)
