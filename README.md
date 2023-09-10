@@ -15,3 +15,5 @@ Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi 
 ![YeniÜrün](https://github.com/merenisler/Eczane-Otomasyonu/assets/142229251/f1dbd446-f7a0-45e0-b7ba-50d9bec1cc2b)
 
 https://bionluk.com/erenisler2
+
+https://medium.com/@eren.isler.123.321
